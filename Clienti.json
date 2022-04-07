@@ -1,0 +1,7 @@
+[{"IdCliente":1,"IsActive":true,"Nome":"Nicola","Cognome":"5CF71","DataNascita":"2010-01-01","Nazione":"Francia","Cap":"81622","Telefono":"39 320 3231251","Email":"Nicola.5CF71@gmail.com"},
+{"IdCliente":2,"IsActive":true,"Nome":"Giovanni","Cognome":"A83C2","DataNascita":"1976-03-01","Nazione":"Italia","Regione":"Lazio","Cap":"82786","Telefono":"320 3231251","Fax":"320 3231251","Email":"Giovanni.A83C2tiscali.com"},
+{"IdCliente":3,"IsActive":true,"Nome":"Marco","Cognome":"7929A","DataNascita":"1980-04-01","Nazione":"Italia","Regione":"Lazio","Cap":"19341","Telefono":"+(39) 320 32312","Fax":"+(39) 320 32312","Email":"Marco.7929A@gmail.com"},
+{"IdCliente":4,"IsActive":true,"Nome":"Giovanna","Cognome":"270BC","DataNascita":"1977-05-01","Nazione":"Italia","Regione":"Lazio","Cap":"64791","Telefono":"39 320 3231251","Email":"Giovanna.270BCtiscali.com"},
+{"IdCliente":5,"IsActive":true,"Nome":"Alice","Cognome":"C5B4D","DataNascita":"1969-06-01","Nazione":"Italia","Regione":"Sicilia","Cap":"99172","Telefono":"320 3231251","Fax":"320 3231251","Email":"Alice.C5B4D@gmail.com"},
+{"IdCliente":6,"IsActive":true,"Nome":"Fabrizio","Cognome":"8A9FD","DataNascita":"1996-07-01","Nazione":"Italia","Regione":"Sicilia","Cap":"64853","Telefono":"+(39) 320 32312","Fax":"+(39) 320 32312","Email":"Fabrizio.8A9FD@gmail.com"}
+]

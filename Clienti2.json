@@ -1,0 +1,19 @@
+[{
+        "Cognome": "Rossi",
+        "DataNascita": "1972-05-01",
+        "IdCliente": 40,
+        "IsActive": "true",
+        "Residenza": { "Nazione": "Italia",
+                       "Regione": "Molise" },
+        "Contatti": ["39 320 3231", "39 320 1123"]
+    },
+    {
+        "Nome": "Nicola",
+        "DataNascita": "1980-05-01",
+        "IdCliente": 41,
+        "IsActive": "true",
+        "Residenza": { "Nazione": "Italia",
+                       "Regione": "Lombardia" },
+        "Contatti": ["39 320 3199", "39 320 8833"]
+    }
+]
